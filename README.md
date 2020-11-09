@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 -->
 - 😄 Pronouns: He/Him/His
 - 🌱 I’m currently learning Python and HTML
-<br/>
+
 ![Parth's github stats](https://github-readme-stats.vercel.app/api?username=parth-agrawal09&show_icons=true&count_private=true&theme=chartreuse-dark&icon_color=00ffff)
-<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parth-agrawal09&layout=compact&theme=chartreuse-dark&icon_color=00ffff)
