@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Parth! 👋
 
 <!--
 **parth-agrawal09/parth-agrawal09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+- 😄 Pronouns: He/Him/His
+- 🌱 I’m currently learning Python and HTML.
+![Parth's github stats](https://github-readme-stats.vercel.app/api?username=parth-agrawal09&show_icons=true&count_private=true&theme=chartreuse-dark&icon_color=00ffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parth-agrawal09&layout=compact&theme=chartreuse-dark&icon_color=00ffff)
